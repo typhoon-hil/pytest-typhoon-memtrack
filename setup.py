@@ -27,6 +27,7 @@ setup(
     python_requires='>=3.6',
     install_requires=[
         'pytest>=6.2.5',
+        'matplotlib>=3.0.0'
         ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
